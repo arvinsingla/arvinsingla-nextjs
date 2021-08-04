@@ -1,6 +1,6 @@
 {
   "name": "arvinsingla-nextjs",
-  "version": "0.1.0",
+  "version": "0.9.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -11,7 +11,8 @@
   "dependencies": {
     "next": "11.0.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "sass": "^1.37.5"
   },
   "devDependencies": {
     "@types/react": "17.0.15",
