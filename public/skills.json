@@ -3,19 +3,17 @@
   "CSS",
   "Javascript",
   "Typescript",
+  "Node.js",
   "React",
   "React Native",
-  "Node.js",
   "Ember",
   "AngularJS",
-  "MySql",
+  "MySQL",
   "MongoDB",
   "Jest",
   "Git",
   "Docker",
   "GCP",
   "Firebase",
-  "Terraform",
-  "PHP",
-  "Drupal"
+  "Terraform"
 ]

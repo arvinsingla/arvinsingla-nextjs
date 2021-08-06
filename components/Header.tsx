@@ -49,19 +49,25 @@ const Header: FunctionComponent<HeaderProps> = ({ name }) => {
             </a>
           </li>
           <li className="header__nav__list__item print-show">
-            Montreal
+            <a
+              href="https://en.wikipedia.org/wiki/Montreal"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              Montreal
+            </a>
           </li>
-          <li className="header__nav__list__item print-show">
+          <li className="header__nav__list__item print-show bold">
             &middot;
           </li>
           <li className="header__nav__list__item print-show">
             <a href="tel:1-647-864-6564">647-864-6564</a>
           </li>
-          <li className="header__nav__list__item print-show">
+          <li className="header__nav__list__item print-show bold">
             &middot;
           </li>
           <li className="header__nav__list__item print-show">
-            <a href="mailto:me@arvinsingla.com">me@arvinsingla.com</a>
+            <a href="mailto:me@arvinsingla.com?subject=You're hired!">me@arvinsingla.com</a>
           </li>
         </ul>
       </nav>

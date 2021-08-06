@@ -64,6 +64,10 @@ p {
   }
 }
 
+.bold {
+  font-weight: bold;
+}
+
 @media only screen {
   .print-show {
     display: none !important;
@@ -271,6 +275,12 @@ $header-avatar-height: 100px !default;
       margin: 0;
       // padding: 0 10px;
     }
+  }
+}
+
+@media only print {
+  .header {
+    margin-bottom: 60px;
   }
 }
 

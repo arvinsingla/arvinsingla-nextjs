@@ -6,8 +6,8 @@ const Intro: FunctionComponent<IntroProps> = () => {
   return (
     <section className="intro">
       <h2 className="intro__title">
-        A Montreal based Software Developer<br/>
-        crafting applications in <span className="color--green">Javascript</span> and <span className="color--blue">Drupal</span>
+        A <span className="color--green">Montreal</span> based full-stack developer<br/>
+        crafting applications and services in <span className="color--orange">Javascript</span>
       </h2>
     </section>
   )
